@@ -1,0 +1,7 @@
+﻿  Data Structure Odev2.cpp
+F:\مشاريعي\Data Structure Odev2\Data Structure Odev2\Data Structure Odev2.cpp(228,29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\مشاريعي\Data Structure Odev2\Data Structure Odev2\Data Structure Odev2.cpp(529,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\مشاريعي\Data Structure Odev2\Data Structure Odev2\Data Structure Odev2.cpp(535,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\مشاريعي\Data Structure Odev2\Data Structure Odev2\Data Structure Odev2.cpp(546,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\مشاريعي\Data Structure Odev2\Data Structure Odev2\Data Structure Odev2.cpp(595,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Data Structure Odev2.vcxproj -> F:\مشاريعي\Data Structure Odev2\x64\Debug\Data Structure Odev2.exe
